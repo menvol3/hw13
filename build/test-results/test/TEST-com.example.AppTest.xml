@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.AppTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-16T11:15:47" hostname="MykolaBuhryk.local" time="0.005">
+  <properties/>
+  <testcase name="setup[0](public void com.example.AppTest.setup(java.lang.reflect.Method))" classname="com.example.AppTest" time="0.004"/>
+  <testcase name="teardown[0](public void com.example.AppTest.teardown(java.lang.reflect.Method))" classname="com.example.AppTest" time="0.0"/>
+  <system-out><![CDATA[Method name is:setup
+Method name is:teardown
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
