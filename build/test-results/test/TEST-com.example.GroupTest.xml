@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.GroupTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-04-25T20:31:20" hostname="MykolaBuhryk.local" time="0.003">
+  <properties/>
+  <testcase name="setup[0](public void com.example.GroupTest.setup(java.lang.reflect.Method))" classname="com.example.GroupTest" time="0.0"/>
+  <testcase name="teardown[0](public void com.example.GroupTest.teardown(java.lang.reflect.Method))" classname="com.example.GroupTest" time="0.0"/>
+  <testcase name="testGroup[0](public void com.example.GroupTest.testGroup(java.lang.reflect.Method))" classname="com.example.GroupTest" time="0.0"/>
+  <testcase name="groupsCheck[0](public void com.example.GroupTest.groupsCheck(java.lang.reflect.Method))" classname="com.example.GroupTest" time="0.0"/>
+  <system-out><![CDATA[before smoke
+Method name is: setup
+Method name is: teardown
+after regression
+Method name is: testGroup
+Method name is: groupsCheck
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

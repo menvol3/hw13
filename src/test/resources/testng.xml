@@ -2,9 +2,6 @@
     <test name="paramTest">
         <parameter name="setup" value="firstValue"/>
         <parameter name="teardown" value="secondValue"/>
-<!--        <packages>-->
-<!--            <package name="com.example"/>-->
-<!--        </packages>-->
         <classes>
             <class name="com.example.PropTest"/>
         </classes>
